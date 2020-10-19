@@ -1,3 +1,5 @@
+![](https://habrastorage.org/webt/gv/rl/b0/gvrlb06cx5ckb3fcxbb5eijexs4.png)
+
 # Barca-Alice
 FC Barcelona info for Yandex Alice Dialogs
 
