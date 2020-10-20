@@ -60,7 +60,7 @@ def getLastMatch():
     last_score = last_matches[0].findAll('span', {"class": "has-score"})[0].text
     last_score = last_score.replace(":", " - ")
 
-    return {'status': 'ok', 'date': last_date, 'team1': last_team1, 'team2': last_team2, 'score': last_score,
+    return {'date': last_date, 'team1': last_team1, 'team2': last_team2, 'score': last_score,
             'tournament': last_tournament}
 
 
